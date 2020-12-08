@@ -22,8 +22,12 @@ body {
 .HTMLtags{
   color: pink;
 }
-.dev {
-    background-color: grey;
-}
+div {
+
+    background-color: lightblue;
+    
+    width: 200px;
+    
+    }
 
 
