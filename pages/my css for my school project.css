@@ -1,0 +1,23 @@
+body {
+    background-image: url("C:/Users/Amr Mohamed/Downloads/Tamer & Amro Computer project/css images/cool background for html.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+.WhatisHTML {
+    width: 55%;
+    font-weight: bolder;
+
+}
+.HTML{
+    float: right;
+}
+.links {
+    text-decoration: none;
+    color: rgba(119, 23, 230, 0.774);
+    display: inline-block;
+    width: auto;
+}
+
+
